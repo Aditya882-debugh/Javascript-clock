@@ -12,6 +12,7 @@ body {
     overflow: visible;
     left: 25%;
     position: absolute;
+     border: 2px solid black;
 }
 
 .clock-body .number {
